@@ -1,0 +1,67 @@
+=== TIC-TAC-TOE (2 Players) ===
+
+  1 | 2 | 3
+ ---+---+---
+  4 | 5 | 6
+ ---+---+---
+  7 | 8 | 9
+
+Player X, choose a cell (1-9): 
+  X | 2 | 3
+ ---+---+---
+  4 | 5 | 6
+ ---+---+---
+  7 | 8 | 9
+
+Player O, choose a cell (1-9): 
+  X | 2 | 3
+ ---+---+---
+  4 | O | 6
+ ---+---+---
+  7 | 8 | 9
+
+Player X, choose a cell (1-9): 
+  X | X | 3
+ ---+---+---
+  4 | O | 6
+ ---+---+---
+  7 | 8 | 9
+
+Player O, choose a cell (1-9): 
+  X | X | O
+ ---+---+---
+  4 | O | 6
+ ---+---+---
+  7 | 8 | 9
+
+Player X, choose a cell (1-9): 
+  X | X | O
+ ---+---+---
+  4 | O | 6
+ ---+---+---
+  7 | 8 | X
+
+Player O, choose a cell (1-9): 
+  X | X | O
+ ---+---+---
+  O | O | 6
+ ---+---+---
+  7 | 8 | X
+
+Player X, choose a cell (1-9): 
+  X | X | O
+ ---+---+---
+  O | O | 6
+ ---+---+---
+  X | 8 | X
+
+Player O, choose a cell (1-9): 
+  X | X | O
+ ---+---+---
+  O | O | O
+ ---+---+---
+  X | 8 | X
+
+*** Player O wins! ***
+Score -> X: 0 | O: 1 | Draws: 0
+Play again? (y/n): Thanks for playing!
